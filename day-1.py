@@ -1,1 +1,4 @@
-print("hey", 2,3, sep="-")
+print("hello world", 7)
+print(5)
+print("Bye")
+print(17*12)
